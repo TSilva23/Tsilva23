@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, SQL and Java**
 
-- 💬 Ask me about **GCloud, Statistics, Sociology and Politics**
+- 💬 Ask me about **ERP Software, GCloud, Statistics, Sociology and Politics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
