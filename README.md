@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tristán</h1>
-<h3 align="center">A passionate Computer Science and former digital transformation consultant from Madrid!</h3>
+<h3 align="center">A passionate Computer Science master student and former digital transformation consultant from Madrid!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsilva23" alt="tsilva23" /></a> </p>
 
