@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **The intersection between computer science and human nature**
 
-- ⚡ Fun fact **I spend every summer doing windsurf!**
+- ⚡ Fun fact **I windsurf every summer, catching the breeze for an adventure on the waves!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
