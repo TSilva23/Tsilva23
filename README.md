@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Scala and React**
 
-- 💬 Ask me about **The intersection between Computer Science and Human Nature**
+- 💬 Ask me about **The intersection between Computer Science and Social Justice**
 
 - ⚡ Fun fact about me **I windsurf every summer, catching the breeze for an adventure on the waves!**
 
