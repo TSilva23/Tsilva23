@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **A Real State Management application**
 
-- 🌱 I’m currently learning **Scala and react**
+- 🌱 I’m currently learning **Scala and React**
 
-- 💬 Ask me about **The intersection between computer science and human nature**
+- 💬 Ask me about **The intersection between Computer Science and Human Nature**
 
-- ⚡ Fun fact **I windsurf every summer, catching the breeze for an adventure on the waves!**
+- ⚡ Fun fact about me **I windsurf every summer, catching the breeze for an adventure on the waves!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
